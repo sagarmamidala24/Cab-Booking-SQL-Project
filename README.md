@@ -18,7 +18,6 @@ This project simulates a cab booking platform using SQL. It covers database desi
 
 ## 📝 Data Insertion
 - Sample data is inserted into each table to simulate a real-world scenario.
-See: data_insertion.sql
 
 ## 📊 Business Queries
 This project includes SQL queries to answer real business questions, like:
