@@ -30,11 +30,11 @@ This project includes SQL queries to answer real business questions, like:
 
 
 ## 🔍 Key Insights
-Customers with >30% cancellations identified
-Top 5 drivers by total distance covered
-Weekend vs weekday performance compared
-Short vs long trip revenue analyzed
-Driver rating impact on earnings
+- Customers with >30% cancellations identified
+- Top 5 drivers by total distance covered
+- Weekend vs weekday performance compared
+- Short vs long trip revenue analyzed
+- Driver rating impact on earnings
 
 ## ✅ Conclusion
 This project showcases how SQL can be used for real business analysis by designing relational schemas, inserting realistic data, and writing queries that support decision-making in ride-hailing operations.
